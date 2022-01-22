@@ -1,3 +1,1 @@
 # ShibaImage
-This application use diffrent.... continue...
-requires git 
