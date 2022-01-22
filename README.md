@@ -1,2 +1,2 @@
 # ShibaImage
-##Getting Started
+## Getting Started
