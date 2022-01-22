@@ -2,6 +2,7 @@
 ## Getting Started
 #### Prerequiste
 Libary you need for Vue:  
+
 #install deps
 * npm install  
 #build dist files  
