@@ -3,10 +3,10 @@
 #### Prerequiste
 Libary you need for Vue:  
 
-#install deps
+[#install deps
 * npm install  
 #build dist files  
 * npm run build  
 * npm install axios  
-* npm install boo  
+* npm install boo]
 
