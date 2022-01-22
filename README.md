@@ -4,8 +4,6 @@
 Libary you need for Vue:
 _# install deps_
 * npm install
-# install deps
-npm install
 _# build dist files_
 * npm run build
 * npm install axios
