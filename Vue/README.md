@@ -1,4 +1,4 @@
-# comunica
+# Frontend
 
 ## Project setup
 ```
