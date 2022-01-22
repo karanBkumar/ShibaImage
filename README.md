@@ -1,7 +1,13 @@
 # _ShibaImage_
 ## Getting Started
-Here's [a link to something else][another place].
-Here's [yet another link][another-link].
-And now back to [the first link][another place].
-[another place]: www.github.co
-[another-link]: www.google.com
+#### Prerequiste
+Libary you need for Vue:
+_# install deps_
+* npm install
+# install deps
+npm install
+_# build dist files_
+* npm run build
+* npm install axios
+* npm install boo
+
