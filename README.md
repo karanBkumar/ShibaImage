@@ -20,4 +20,4 @@ Library you need for (backend) .Net5 :
 ><mark>Remember to run the backend in visual studio code .Net 5</mark>.
 
 ## Demo
-![WebSite](https://github.com/karanBkumar/ShibaImage/blob/main/DemoImage.jpeg)
+![WebSite](https://github.com/karanBkumar/ShibaImage/blob/main/DemoImage.PNG)
